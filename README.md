@@ -1,2 +1,2 @@
 # Hartl-s-HTML
-HTML exercised repos from Michael Hartl Book
+HTML exercises repo from Michael Hartl Book
